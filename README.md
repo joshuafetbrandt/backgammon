@@ -9,10 +9,6 @@ for people to puruse, and random pieces of trivia about the game.
 
 [US Backgammon Federation](https://usbgf.org)
 
-### Code Snippets
-
-[printing_tables](https://github.com/joshuafetbrandt/printing_tables)
-
-
+### Things to Verify
 
 
